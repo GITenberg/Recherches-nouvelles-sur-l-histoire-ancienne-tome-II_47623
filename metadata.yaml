@@ -1,0 +1,30 @@
+_repo: Recherches-nouvelles-sur-l-histoire-ancienne-tome-II_47623
+creator:
+  author:
+    agent_name: Volney, C.-F. (Constantin-François)
+    aliases:
+    - Volney, Constantin-François Chasseboeuf, comte de
+    - Volney, C.-F. (Constantin-Francois)
+    birthdate: 1757
+    deathdate: 1820
+    gutenberg_agent_id: '622'
+    url: http://www.gutenberg.org/2009/agents/622
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Volney
+    - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
+description: Tome 6 des Œuvres de C.-F. Volney
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47623'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcc 'DS'
+- !lcsh 'Middle East -- History -- To 622'
+title: Recherches nouvelles sur l'histoire ancienne, tome II
+url: http://www.gutenberg.org/ebooks/47623
