@@ -1,4 +1,8 @@
 _repo: Recherches-nouvelles-sur-l-histoire-ancienne-tome-II_47623
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47623-h/images/cover.jpg
 creator:
   author:
     agent_name: Volney, C.-F. (Constantin-François)
@@ -13,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Volney
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
 description: Tome 6 des Œuvres de C.-F. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47623#Recherches-nouvelles-sur-l-histoire-ancienne-tome-II
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-12-10'
 gutenberg_type: Text
